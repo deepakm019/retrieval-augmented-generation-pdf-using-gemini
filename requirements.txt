@@ -1,0 +1,7 @@
+pypdf2
+chromadb
+google.generativeai
+langchain-google-genai
+langchain
+langchain_community
+jupyter
